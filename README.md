@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @raoaliarmaghan
-- 👀 I’m interested in Data Science/ Machine Learning/ Deep Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ML/DL Projects
+Hi,
+Its Ali here.
+With algorithms as my paintbrush and data as my canvas, 
+I create masterpieces as a Data Scientist / Machine Learning Engineer.
+
+My ultimate goal is to contribute to the development of intelligent systems that make a positive impact on society, transforming raw data into actionable insights and empowering organizations to make informed decisions.
 
 <!---
 raoaliarmaghan/raoaliarmaghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
